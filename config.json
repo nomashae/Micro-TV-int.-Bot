@@ -1,0 +1,36 @@
+{
+  "check_interval_minutes": 2,
+  "admin_role_id": 1546895808782270534,
+  "feeds": [
+    {
+      "name": "Primer TV",
+      "youtube_channel_id": "UCpmv9hVy3TCPPRaSZb0e4Jg",
+      "discord_channel_id": 1508176457317486753,
+      "role_id": 1464544157388509344
+    },
+    {
+      "name": "Sepro TV",
+      "youtube_channel_id": "UCrRaA39M8naZ5j34loGXsbw",
+      "discord_channel_id": 1477746849384370288,
+      "role_id": 1464544157388509344
+    },
+    {
+      "name": "Kasad TV",
+      "youtube_channel_id": "UCBM96RwpZpO0A_txbMxiL0g",
+      "discord_channel_id": 1476210564328853505,
+      "role_id": 1464544157388509344
+    },
+    {
+      "name": "Hugian News Channel",
+      "youtube_channel_id": "UCqXiN6uN5SJLFRbK5O-0VWQ",
+      "discord_channel_id": 1462445709692375242,
+      "role_id": 1464544157388509344
+    },
+    {
+      "name": "JTV Heceta",
+      "youtube_channel_id": "UCUlzaZhkL08OnotlT5_yM6g",
+      "discord_channel_id": 1549419284827082872,
+      "role_id": 1464544157388509344
+    }
+  ]
+}
